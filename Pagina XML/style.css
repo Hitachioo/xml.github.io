@@ -1,0 +1,75 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url("/Imagenes/fondo.jpg");
+        }
+        
+        .header {
+            background-color: #1a4384;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .info-box {
+            background-color: #e6e6e6;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .example-box {
+            background-color: #d9d9d9;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+            min-height: 50px;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+        
+        h2 {
+            margin-top: 0;
+            font-size: 20px;
+        }
+        
+        ul {
+            padding-left: 20px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .references {
+            font-size: 14px;
+            border-top: 1px solid #ccc;
+            padding-top: 15px;
+            margin-top: 20px;
+        }
+        
+        .footer {
+            font-size: 12px;
+            text-align: center;
+            padding: 10px;
+            color: #666;
+        }
+        .references{
+            color: white;
+        }
+
+        .footer{
+            color: white;
+        }
